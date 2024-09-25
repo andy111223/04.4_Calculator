@@ -19,10 +19,10 @@
 
 ## Usage
 
-Call the `add`, `sub`, `mul` or `div` function with at least two valid numbers after a prompt in your terminal. For `add` and `sub` you can provide more than two numbers. Observe logging entries in logfile.log.
+Call the `add`, `sub`, `mul` or `div` function with at least two valid numbers after a prompt in your terminal. For `add` and `sub` you can provide more than two numbers. Observe logging entries in the console.
 
 ## Requirements
 
-Python 3.x
+Python 3.10 or higher
 
 
