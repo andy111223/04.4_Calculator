@@ -1,6 +1,6 @@
 # Basic calculator
 
- - conducts basic operations such as addition, substraction, multiplication and division
+ - conducts basic operations such as addition, subtraction, multiplication and division
  - provides logging capability
 
 ## Installation
@@ -19,7 +19,7 @@
 
 ## Usage
 
-Call the `add`, `sub`, `mul` or `div` function with at least two valid numbers after a prompt in your terminal. For `add` and `sub` you can provide more than two numbers. Observe logging entries in the console.
+Call the `add`, `sub`, `mul` or `div` function with two valid numbers after a prompt in your terminal. For `add` and `mul` you can provide more than two numbers. Observe logging entries in the console.
 
 ## Requirements
 
